@@ -2,11 +2,13 @@
 
 **Curse Modpack Downloader**
 
-Downloads modpacks from curse, given a URL and Curse File ID. Experimental. Requires gson (2.8.x) and zip4j (1.3.2).
+This version is a fixed version of the original that works in 2023.
 
-Licensed under the [WTFPL](http://www.wtfpl.net/). Have fun.
+Downloads modpacks from Curse, given a URL and Curse File ID. Experimental. Requires gson (2.8.x) and zip4j (1.3.2).
 
-## Usage Instructions
+The original was licensed under the [WTFPL](http://www.wtfpl.net/); I will consider this one to too.
+
+## Usage Instructions (from original)
  
  * Download CMPDL on the [Releases](https://github.com/Vazkii/CMPDL/releases) page. Run it.
  * Find the pack you want. We'll use [Proton](https://minecraft.curseforge.com/projects/proton) as an example.
